@@ -1,0 +1,15 @@
+Extensions for React Project
+i) Auto Close Tag
+ii) Auto import
+iii) Auto Rename Tag
+iv) EsLint
+v) npm intelligence
+vi) path intelligence
+vii) React snippets -- to use shortest form but works like full form
+viii) snipped
+ix) Stylelint
+x) Tailwind Css Intelligence
+xi) Thunder Client
+xii) VSCode React ref
+xiii) vsCode icons
+xiv) Prettier code formater
